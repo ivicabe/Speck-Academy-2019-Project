@@ -39,3 +39,15 @@ footer {
   height: 100px;
   background-color: #333;
 }
+label {
+  display: block; 
+  font-family: verdana; 
+  text-align: center; 
+  line-height: 150%; 
+  font-size: .85em;
+}
+  form {
+    text-align: center; 
+    line-height: 150%; 
+    font-size: 85;
+  }
